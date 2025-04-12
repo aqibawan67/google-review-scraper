@@ -1,0 +1,12 @@
+{
+  "name": "google-review-scraper",
+  "version": "1.0.0",
+  "description": "Scrapes Google reviews daily",
+  "main": "scraper.js",
+  "scripts": {
+    "start": "node scraper.js"
+  },
+  "dependencies": {
+    "puppeteer": "^20.0.0"
+  }
+}
