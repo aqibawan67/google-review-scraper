@@ -72,7 +72,7 @@ const fs = require('fs');
     });
   });
 
-  fs.writeFileSync('ucp_all_reviews.json', JSON.stringify(reviews, null, 2));
+  fs.writeFileSync('ucp_all_revie.json', JSON.stringify(reviews, null, 2));
   console.log(`Successfully scraped ${reviews.length} reviews`);
 
   await browser.close();
