@@ -1,0 +1,58 @@
+[
+  {
+    "name": "yousuf khan",
+    "rating": 1,
+    "review": "This university prioritizes profit over education. Poor management, neglected student concerns, and declining academic standards make it a business, not a learning institution. Mian Amer Mehmood focuses on money, not quality education.",
+    "date": "2 weeks ago",
+    "photos": 4
+  },
+  {
+    "name": "Hamza",
+    "rating": 5,
+    "review": "A well-reputed university provides a strong academic foundation, excellent facilities, and a supportive environment for students to grow both intellectually and personally. The quality of education is a key factor, with experienced faculty …",
+    "date": "3 weeks ago",
+    "photos": 0
+  },
+  {
+    "name": "Màhár Priñce",
+    "rating": 5,
+    "review": "The charter to establish the University of Central Punjab (UCP) was awarded in April 2002, attaining the distinction of becoming the first private sector university in Punjab which acquired the status of a degree awarding institution. …",
+    "date": "7 months ago",
+    "photos": 4
+  },
+  {
+    "name": "farooq khan",
+    "rating": 4,
+    "review": "The University of Central Punjab (UCP) in Lahore stands as a beacon of higher education excellence in Pakistan. Located in the heart of the city, UCP offers a vibrant campus life, state-of-the-art facilities, and a wide range of academic …",
+    "date": "9 months ago",
+    "photos": 4
+  },
+  {
+    "name": "Sania amir",
+    "rating": 1,
+    "review": "I took admission in UCP with great enthusiasm, but now I realize it was the worst decision of my life. They're only interested in fees; whenever they want, they increase the fees, thinking every student comes from a rich family. They have …",
+    "date": "a month ago",
+    "photos": 0
+  },
+  {
+    "name": "Muhammad Danish",
+    "rating": 1,
+    "review": "Third class university, they don't even understand students'affairs, they only care about fees, so called professional teachers, who claimed they are professional, first they need to learn how to teach, unprofessional teachers mostly their …",
+    "date": "2 months ago",
+    "photos": 0
+  },
+  {
+    "name": "Tayyaba Sarfaraz",
+    "rating": 5,
+    "review": "I've done my bachlors degree from this university in my opinion its best faculty is highly educated and cooperation. They provide top notch facilities to their students if you work hard you can even maintain upto a 100% university.  Much …",
+    "date": "5 months ago",
+    "photos": 0
+  },
+  {
+    "name": "Azhar ul haq wahid",
+    "rating": 5,
+    "review": "University of The Central Punjab is leading university of Pakistan which has high ranking in the list of Pakistan Higher Education Commission (HEC). The university of the central Punjab is project of Punjab group of Colleges and the founder …",
+    "date": "5 years ago",
+    "photos": 4
+  }
+]
